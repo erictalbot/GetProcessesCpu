@@ -1,0 +1,8 @@
+*.cache
+*.suo
+*.db
+*.csproj.user
+*.pdb
+*.force
+/GetProcessCPUPercent/bin/
+/GetProcessCPUPercent/obj/
